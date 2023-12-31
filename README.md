@@ -1,4 +1,11 @@
+# POR: LAURINDO VILONGA DUMBA  😁
+
+
+
+
 ## PROJETO CONTADOR DE GARRAFAS DE ÁGUA COM YOLOV8
+
+
 
 
 ✍ Desenvolver uma aplicação inteligente que faça a contagem das garrafas de água para indústria é grande tarefa que tem seu impacto positivo no ponto de vista de custo e benéficio para, isto é reduzindo na implementação de sensores que poderia realizar este tipo de  contagem.
@@ -71,4 +78,5 @@ HTML("""
       <source src="%s" type="video/mp4">
 </video>
 """ % data_url)
+
 
